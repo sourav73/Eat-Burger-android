@@ -1,0 +1,32 @@
+<resources>
+    <!--Layout texts-->
+    <string name="app_name">Eat Burger</string>
+    <string name="name_hint_text">Enter Your Name</string>
+    <string name="email_hint_text">Enter your Email</string>
+    <string name="topping_text">Toppings</string>
+    <string name="topping_1">Lettuce (Add $0.4)</string>
+    <string name="topping_2">Swiss Cheese (Add $0.6)</string>
+    <string name="topping_3">Avocado (Add $0.5)</string>
+    <string name="increase_button">+</string>
+    <string name="decrease_button">-</string>
+    <string name="quantity_text_view_text">1</string>
+    <string name="price_text">$5.0</string>
+    <string name="order_summary_btn">order summary</string>
+    <string name="order_button">Order</string>
+    <string name="total_text_view_text">Total:</string>
+
+    <!--Topping texts-->
+    <string name="has_lettuce">Has Lettuce topping</string>
+    <string name="has_cheese">Has Cheese topping</string>
+    <string name="has_avocado">Has Avocado topping</string>
+    <!--order summary texts-->
+    <string name="total_text">Total: $</string>
+    <string name="name_text">Name</string>
+    <string name="email_text">Email</string>
+    <string name="quantity_text">Quantity</string>
+    <string name="thank_you_text">Thank You!</string>
+
+    <string name="min_order_warning">You cannot order below 1 Burger</string>
+    <string name="max_order_warning">You cannot order more than 100 Burger</string>
+    <string name="mail_subject">Burger order for: </string>
+</resources>
